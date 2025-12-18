@@ -3,7 +3,6 @@
 
 A full-stack e-commerce website with user authentication, product listings, cart functionality, and image upload.
 
-🔗 [Live Demo](https://flipzon-975h.onrender.com)
 
 **Tech Stack:**
 -
